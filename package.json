@@ -1,0 +1,22 @@
+{
+  "name": "foregoing-wing-kill-7lnc0",
+  "productName": "foregoing-wing-kill-7lnc0",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "lambo",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^23.1.1",
+    "electron-rebuild": "^3.2.9",
+    "install": "^0.13.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3-with-prebuilds": "^7.4.3",
+    "sqlite3": "^5.1.6"
+  }
+}
